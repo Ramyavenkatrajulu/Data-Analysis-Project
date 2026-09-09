@@ -1,0 +1,401 @@
+Customer_ID,Age,Gender,Tenure_Months,Monthly_Charges,Contract,Internet_Service,Support_Calls,Payment_Method,Churn
+20001,44,Female,59,1357.16,Monthly,DSL,6,Debit Card,No
+20002,59,Male,59,2181.34,One Year,Fiber,0,Bank Transfer,No
+20050,69,Male,50,1092.98,Monthly,DSL,0,Debit Card,Yes
+20004,42,Male,39,2031.06,Monthly,DSL,1,UPI,No
+20005,38,Male,28,1000.54,Monthly,None,0,Credit Card,No
+20006,69,Male,61,2691.43,Monthly,None,5,Debit Card,No
+20361,68,Female,17,1343.11,Monthly,DSL,4,Credit Card,Yes
+20008,42,Male,2,1101.68,Monthly,DSL,4,Debit Card,No
+20270,67,Male,45,738.18,Monthly,Fiber,0,Credit Card,Yes
+20322,67,Female,28,1486.61,One Year,Fiber,7,Bank Transfer,Yes
+20011,49,Female,13,948.44,Two Year,Fiber,4,UPI,No
+20012,49,Female,13,2114.44,One Year,Fiber,1,Debit Card,No
+20013,22,Female,43,2529.37,One Year,Fiber,6,UPI,No
+20371,67,Male,16,491.12,Monthly,DSL,1,Credit Card,Yes
+20015,63,Female,55,2524.75,Monthly,Fiber,1,Bank Transfer,No
+20016,59,Female,40,1370.88,Monthly,DSL,7,Credit Card,No
+20017,66,Female,15,721.06,Monthly,Fiber,3,UPI,No
+20018,59,Male,52,2291.47,Monthly,Fiber,3,Bank Transfer,No
+20022,66,Male,33,518.32,Monthly,DSL,0,Bank Transfer,Yes
+20020,33,Male,52,2111.43,One Year,DSL,1,Credit Card,No
+20021,50,Female,30,1029.74,One Year,DSL,1,Credit Card,No
+20114,66,Male,44,2437.92,Two Year,Fiber,4,Credit Card,Yes
+20110,65,Female,27,1091.05,Two Year,None,4,UPI,Yes
+20113,65,Female,53,2729.71,One Year,DSL,1,Bank Transfer,Yes
+20169,65,Female,61,1124.51,One Year,Fiber,0,UPI,Yes
+20026,68,Male,54,2937.66,Monthly,Fiber,0,Credit Card,No
+20027,62,Female,1,2442.31,One Year,Fiber,7,Credit Card,No
+20214,65,Male,34,1873.45,Two Year,None,4,Bank Transfer,Yes
+20044,64,Male,17,2403.7,Two Year,DSL,2,Credit Card,Yes
+20030,39,Male,32,2637.47,Two Year,None,7,Bank Transfer,No
+20031,58,Male,15,1080.49,Two Year,None,2,Credit Card,No
+20032,22,Male,12,1561.74,Monthly,Fiber,5,UPI,No
+20033,59,Female,57,1971.35,Monthly,Fiber,1,Bank Transfer,No
+20034,40,Male,8,1409.21,Monthly,Fiber,5,Debit Card,No
+20035,34,Male,72,1453.21,Two Year,Fiber,6,Credit Card,No
+20051,64,Female,37,866.86,One Year,DSL,7,Credit Card,Yes
+20037,40,Male,62,1822.43,One Year,Fiber,0,Debit Card,No
+20038,33,Male,12,2595.55,Monthly,DSL,5,Debit Card,No
+20039,20,Male,65,843.13,One Year,Fiber,5,Bank Transfer,No
+20040,47,Male,42,2821.97,Monthly,None,6,Debit Card,No
+20041,39,Female,62,2159.54,One Year,Fiber,5,Debit Card,No
+20074,64,Female,58,889.53,Monthly,Fiber,2,UPI,Yes
+20043,46,Female,43,1800.71,Two Year,Fiber,0,Debit Card,No
+20010,63,Female,30,1409.52,Monthly,Fiber,6,UPI,Yes
+20164,63,Female,11,2657.77,One Year,Fiber,0,Bank Transfer,Yes
+20046,40,Female,40,2508.63,One Year,Fiber,3,Credit Card,No
+20047,30,Male,23,407.37,Monthly,None,6,Credit Card,No
+20048,49,Female,56,2701.77,Monthly,None,6,UPI,No
+20049,63,Male,6,2977.3,One Year,DSL,1,Credit Card,No
+20009,62,Male,17,919.98,Monthly,Fiber,0,Bank Transfer,Yes
+20257,62,Female,16,464.9,Two Year,Fiber,0,UPI,Yes
+20052,65,Female,64,2365.48,Two Year,Fiber,7,Credit Card,No
+20053,40,Female,54,982.17,Monthly,Fiber,6,Bank Transfer,No
+20054,62,Female,72,2636.02,One Year,Fiber,5,Debit Card,No
+20055,34,Female,49,576.67,Monthly,DSL,6,Credit Card,No
+20056,57,Male,11,639.08,Monthly,Fiber,6,Credit Card,No
+20057,38,Male,49,2942.71,Monthly,Fiber,6,Credit Card,No
+20206,60,Male,31,411.26,Two Year,Fiber,5,Debit Card,Yes
+20059,54,Female,66,2585.6,Two Year,DSL,7,Credit Card,No
+20060,23,Female,63,1174.69,Two Year,Fiber,7,Bank Transfer,No
+20061,61,Female,28,2125.51,Two Year,Fiber,2,Debit Card,No
+20062,35,Female,17,1903.45,Monthly,Fiber,2,Debit Card,No
+20063,47,Female,6,1927.51,Monthly,Fiber,1,Credit Card,No
+20064,39,Female,19,2141.84,One Year,Fiber,6,Credit Card,No
+20389,60,Male,20,641.75,One Year,Fiber,3,UPI,Yes
+20066,47,Male,28,1457.47,Monthly,DSL,0,Debit Card,No
+20070,59,Female,68,2168.36,Monthly,Fiber,0,UPI,Yes
+20068,60,Male,38,2374.17,One Year,Fiber,1,UPI,No
+20100,59,Female,24,1821.58,Monthly,DSL,1,Bank Transfer,Yes
+20191,59,Female,17,828.86,One Year,Fiber,1,Bank Transfer,Yes
+20071,68,Female,49,929,Monthly,Fiber,6,Bank Transfer,No
+20072,31,Female,43,1987.39,One Year,DSL,4,UPI,No
+20248,59,Female,36,1256.77,Monthly,DSL,7,Bank Transfer,Yes
+20327,57,Male,48,2735.49,Monthly,Fiber,7,UPI,Yes
+20075,68,Female,13,460.85,One Year,DSL,3,Bank Transfer,No
+20076,53,Male,52,652.63,Monthly,Fiber,7,Credit Card,No
+20077,51,Female,58,1935.19,Monthly,DSL,7,Bank Transfer,No
+20019,56,Female,53,1272.28,One Year,Fiber,4,Credit Card,Yes
+20079,59,Female,60,420.49,One Year,DSL,3,Debit Card,No
+20029,56,Female,9,1859.08,Monthly,Fiber,2,Credit Card,Yes
+20116,56,Male,47,2134.01,One Year,Fiber,2,UPI,Yes
+20082,31,Male,28,1591.03,One Year,DSL,2,Bank Transfer,No
+20083,56,Female,1,2806.92,One Year,Fiber,5,Credit Card,No
+20084,64,Male,42,1195.32,One Year,Fiber,0,Debit Card,No
+20085,36,Male,48,1555.41,One Year,Fiber,5,UPI,No
+20086,32,Female,40,335.94,Monthly,Fiber,1,Bank Transfer,No
+20087,45,Female,63,519.32,Monthly,Fiber,0,Credit Card,No
+20088,41,Female,72,997.2,Monthly,Fiber,1,UPI,No
+20089,25,Female,4,374.2,Monthly,None,6,Debit Card,No
+20090,60,Female,38,2003.71,One Year,Fiber,3,UPI,No
+20091,26,Male,27,1450.28,One Year,Fiber,0,Debit Card,No
+20092,64,Female,9,1778.99,Monthly,Fiber,3,UPI,No
+20093,50,Female,16,770.55,Monthly,Fiber,6,Bank Transfer,No
+20094,50,Female,56,1098.02,Monthly,None,4,Credit Card,No
+20095,36,Male,31,2091.33,Monthly,Fiber,7,Bank Transfer,No
+20096,20,Female,14,2905.32,One Year,None,3,Bank Transfer,No
+20128,56,Female,49,2094.65,Monthly,DSL,3,UPI,Yes
+20098,57,Female,34,2703.04,One Year,DSL,3,Debit Card,No
+20099,64,Male,67,1856.58,Two Year,Fiber,6,Debit Card,No
+20332,55,Male,7,2514.32,Monthly,DSL,2,Bank Transfer,Yes
+20101,18,Female,26,1649.75,Monthly,DSL,6,UPI,No
+20102,46,Female,20,486.36,Monthly,Fiber,5,UPI,No
+20103,67,Male,64,541.67,One Year,Fiber,4,Bank Transfer,No
+20104,51,Female,10,1921.46,One Year,Fiber,3,Bank Transfer,No
+20105,68,Female,67,1219.59,Monthly,None,6,Credit Card,No
+20367,55,Male,28,2564.7,Monthly,Fiber,5,UPI,Yes
+20107,18,Male,5,1396.79,Two Year,Fiber,3,Debit Card,No
+20045,54,Male,32,342.74,Monthly,Fiber,0,Credit Card,Yes
+20246,54,Female,65,2992.92,Two Year,Fiber,7,Debit Card,Yes
+20014,53,Male,21,2116.35,Monthly,Fiber,3,Debit Card,Yes
+20111,64,Male,15,1717.77,One Year,DSL,6,Bank Transfer,No
+20112,30,Male,35,2183.15,Two Year,DSL,0,UPI,No
+20374,53,Male,52,2669.69,Monthly,DSL,2,UPI,Yes
+20028,52,Female,44,2079.44,Two Year,Fiber,2,Debit Card,Yes
+20115,46,Male,26,2125.17,Monthly,Fiber,4,Credit Card,No
+20357,52,Male,63,1491.95,Monthly,Fiber,1,Credit Card,Yes
+20108,51,Female,67,685.86,Monthly,DSL,7,Bank Transfer,Yes
+20065,50,Male,56,1852.47,Monthly,DSL,7,Credit Card,Yes
+20119,34,Male,12,302,Monthly,None,1,UPI,No
+20120,24,Male,4,1033.28,Monthly,Fiber,5,Bank Transfer,No
+20121,30,Male,48,887.31,Monthly,Fiber,5,Bank Transfer,No
+20122,22,Female,55,2085.95,Monthly,None,3,UPI,No
+20123,43,Female,1,2010.02,Monthly,Fiber,3,Debit Card,No
+20124,66,Male,66,1901.35,One Year,Fiber,3,UPI,No
+20125,20,Male,30,342.86,One Year,Fiber,3,UPI,No
+20126,24,Male,3,2266.7,Monthly,None,2,Credit Card,No
+20127,66,Male,21,1172.53,One Year,DSL,4,UPI,No
+20337,50,Female,54,1796.65,Monthly,DSL,0,Credit Card,Yes
+20129,18,Male,62,1801.76,Monthly,DSL,6,Bank Transfer,No
+20130,66,Female,38,1224.37,Monthly,Fiber,0,Credit Card,No
+20131,34,Male,15,662.36,One Year,Fiber,3,Bank Transfer,No
+20132,60,Male,52,553.93,Monthly,DSL,4,Bank Transfer,No
+20133,42,Male,46,2544.1,Monthly,Fiber,3,Debit Card,No
+20069,49,Male,37,909.94,One Year,DSL,7,Bank Transfer,Yes
+20135,32,Male,21,2053.43,Two Year,None,1,Credit Card,No
+20136,46,Female,5,578.27,Monthly,DSL,1,Credit Card,No
+20137,60,Male,70,1384.47,One Year,DSL,4,Debit Card,No
+20138,49,Male,47,2267.14,One Year,DSL,6,Debit Card,No
+20139,43,Male,68,2404.52,One Year,DSL,1,Debit Card,No
+20373,49,Female,71,1827.25,Monthly,None,5,UPI,Yes
+20141,42,Female,21,299.08,Monthly,Fiber,1,Debit Card,No
+20375,49,Male,37,1805.26,Monthly,None,6,UPI,Yes
+20143,26,Female,64,1261.81,Two Year,DSL,4,Credit Card,No
+20144,18,Male,67,986.1,Monthly,Fiber,6,Bank Transfer,No
+20145,46,Male,40,333.82,One Year,DSL,4,Bank Transfer,No
+20146,39,Male,10,1757.81,One Year,Fiber,1,UPI,No
+20147,33,Female,52,2597.11,One Year,DSL,1,Bank Transfer,No
+20148,58,Male,72,2884.61,Two Year,Fiber,1,Debit Card,No
+20149,68,Male,61,1826.51,Two Year,DSL,5,Debit Card,No
+20150,61,Female,64,1688.05,One Year,Fiber,2,UPI,No
+20151,68,Female,5,528.65,Monthly,Fiber,3,UPI,No
+20152,58,Female,53,1780.96,Two Year,Fiber,7,UPI,No
+20240,48,Male,44,1319.17,Monthly,Fiber,3,Debit Card,Yes
+20154,31,Male,37,1938.27,Monthly,Fiber,4,UPI,No
+20155,46,Female,56,1348.56,Two Year,Fiber,7,Bank Transfer,No
+20156,36,Male,59,947.81,Monthly,None,0,UPI,No
+20344,48,Male,47,1760.01,Two Year,DSL,2,Credit Card,Yes
+20158,19,Female,59,1149.28,Monthly,None,0,Credit Card,No
+20159,58,Male,2,559.94,Two Year,Fiber,6,UPI,No
+20160,62,Female,65,776.62,One Year,Fiber,5,UPI,No
+20161,32,Female,60,2964.81,One Year,DSL,4,Bank Transfer,No
+20162,20,Female,51,1498.08,Monthly,Fiber,5,Credit Card,No
+20163,28,Male,30,1735.05,One Year,DSL,4,Bank Transfer,No
+20205,47,Female,13,2513.18,Monthly,Fiber,7,UPI,Yes
+20165,47,Female,39,2987.04,Monthly,Fiber,0,UPI,No
+20166,57,Female,72,1872.33,Monthly,Fiber,0,Debit Card,No
+20260,47,Male,45,2050.67,Monthly,DSL,2,UPI,Yes
+20168,68,Female,64,1181.74,Two Year,Fiber,1,Bank Transfer,No
+20283,47,Female,69,2750.65,One Year,Fiber,4,Debit Card,Yes
+20170,19,Female,54,1386.3,Two Year,None,5,Credit Card,No
+20171,49,Male,58,2114.77,Monthly,Fiber,6,Debit Card,No
+20172,25,Male,56,2140.92,One Year,DSL,3,Credit Card,No
+20285,47,Female,56,1099.08,Two Year,Fiber,2,Credit Card,Yes
+20109,46,Female,58,2228.74,Monthly,Fiber,4,Bank Transfer,Yes
+20175,29,Male,52,2006.47,Two Year,Fiber,5,Bank Transfer,No
+20176,64,Female,1,645.48,Monthly,DSL,2,Credit Card,No
+20177,57,Male,55,1860.93,Monthly,DSL,6,Credit Card,No
+20178,53,Female,22,2171.24,One Year,DSL,2,Bank Transfer,No
+20236,46,Female,20,976.37,One Year,Fiber,4,Debit Card,Yes
+20180,45,Female,1,2333.37,One Year,None,1,Debit Card,No
+20181,69,Female,65,2655.72,Monthly,DSL,0,Bank Transfer,No
+20182,66,Female,63,1648.89,One Year,Fiber,4,Debit Card,No
+20183,62,Male,54,2270.67,Monthly,DSL,5,Debit Card,No
+20184,35,Female,42,1970.77,Monthly,Fiber,7,UPI,No
+20185,19,Male,21,802.93,One Year,DSL,0,Debit Card,No
+20328,46,Female,10,1333.68,Monthly,DSL,3,Debit Card,Yes
+20187,62,Female,38,1067.26,Monthly,Fiber,4,Credit Card,No
+20188,32,Female,8,1495.19,Monthly,DSL,2,Credit Card,No
+20080,45,Female,58,2281.21,Monthly,Fiber,5,Bank Transfer,Yes
+20190,46,Female,47,2593.89,Monthly,Fiber,3,Debit Card,No
+20142,45,Female,23,2221.77,Monthly,Fiber,0,Bank Transfer,Yes
+20192,46,Female,17,637.98,Two Year,DSL,3,Bank Transfer,No
+20193,20,Female,13,2900.4,Monthly,Fiber,1,UPI,No
+20194,36,Male,17,590.72,One Year,DSL,6,Credit Card,No
+20232,45,Male,63,2340.89,Two Year,Fiber,7,Credit Card,Yes
+20196,31,Male,45,1880.02,Two Year,DSL,0,Bank Transfer,No
+20197,57,Female,6,1760.71,Monthly,DSL,0,UPI,No
+20198,21,Male,35,531.29,Two Year,Fiber,6,Bank Transfer,No
+20199,69,Male,14,452.97,Monthly,Fiber,1,Debit Card,No
+20310,45,Female,11,1866.74,Monthly,Fiber,2,Credit Card,Yes
+20201,48,Female,61,1880.09,Monthly,DSL,4,UPI,No
+20202,60,Male,15,1768.73,Monthly,Fiber,3,UPI,No
+20203,49,Female,54,930.1,Monthly,DSL,6,Debit Card,No
+20204,44,Female,27,2020.99,Monthly,Fiber,7,Credit Card,Yes
+20292,44,Male,40,2337.86,One Year,DSL,3,Debit Card,Yes
+20340,44,Female,59,2416.89,Monthly,Fiber,4,Debit Card,Yes
+20207,19,Female,35,1643.95,Two Year,Fiber,6,Debit Card,No
+20208,66,Female,60,2160.14,Monthly,DSL,3,Credit Card,No
+20209,26,Female,6,980.24,Two Year,DSL,3,Credit Card,No
+20210,45,Male,69,1129.98,Two Year,DSL,5,Credit Card,No
+20211,48,Female,58,1955.82,One Year,Fiber,5,Credit Card,No
+20212,51,Male,49,2723.43,Monthly,None,0,Bank Transfer,No
+20213,32,Female,23,2485.8,One Year,DSL,3,Credit Card,No
+20118,43,Female,50,1097.73,One Year,DSL,4,Credit Card,Yes
+20215,42,Female,26,2270.6,One Year,Fiber,7,UPI,No
+20216,53,Female,47,1284.02,Monthly,Fiber,4,Debit Card,No
+20007,41,Male,16,2717.36,Monthly,DSL,3,Bank Transfer,Yes
+20218,26,Male,20,1557.69,One Year,DSL,6,UPI,No
+20219,54,Male,6,811.83,One Year,Fiber,5,UPI,No
+20220,65,Female,70,2193.69,Monthly,Fiber,0,Bank Transfer,No
+20221,62,Female,59,1801.45,Monthly,Fiber,4,UPI,No
+20222,56,Female,64,1267.28,Two Year,DSL,2,UPI,No
+20223,49,Female,18,2759.62,Two Year,DSL,7,Bank Transfer,No
+20224,69,Male,4,355.52,Monthly,Fiber,0,UPI,No
+20225,34,Female,17,1151.59,Two Year,Fiber,0,Credit Card,No
+20226,52,Female,14,452.58,Monthly,DSL,4,Credit Card,No
+20227,54,Female,13,2368.62,One Year,None,2,Debit Card,No
+20228,36,Female,7,2194.69,One Year,DSL,1,UPI,No
+20229,61,Female,44,1193.65,Two Year,None,4,Debit Card,No
+20230,46,Female,15,2123.29,Two Year,DSL,2,Credit Card,No
+20117,41,Female,34,2853,Two Year,Fiber,5,Debit Card,Yes
+20003,40,Female,13,821.28,One Year,Fiber,6,Bank Transfer,Yes
+20397,40,Male,18,683.9,Two Year,Fiber,2,Debit Card,Yes
+20234,45,Female,35,1412.16,One Year,DSL,0,UPI,No
+20173,39,Female,34,1150.15,One Year,DSL,4,Debit Card,Yes
+20247,39,Male,32,1518.7,One Year,Fiber,6,UPI,Yes
+20237,34,Male,35,624.21,Monthly,Fiber,5,Debit Card,No
+20238,33,Male,32,1877.27,Two Year,Fiber,4,Bank Transfer,No
+20239,40,Male,48,2916.17,Monthly,Fiber,6,Credit Card,No
+20314,39,Female,14,2485.12,Monthly,None,5,UPI,Yes
+20241,20,Male,24,466.5,One Year,DSL,3,Credit Card,No
+20242,38,Male,61,1215.12,Monthly,Fiber,3,Debit Card,No
+20243,43,Female,17,1665.02,Two Year,Fiber,4,Bank Transfer,No
+20244,53,Male,71,736.19,Monthly,Fiber,1,Bank Transfer,No
+20245,59,Male,50,2075.88,Monthly,DSL,4,Credit Card,No
+20366,39,Female,36,1332.52,Monthly,DSL,6,Bank Transfer,Yes
+20023,38,Male,57,2978.97,Two Year,Fiber,6,Bank Transfer,Yes
+20189,37,Male,62,1965.19,Monthly,DSL,0,UPI,Yes
+20249,29,Female,13,1380.9,One Year,Fiber,6,Credit Card,No
+20250,59,Male,70,609.89,One Year,None,5,Credit Card,No
+20251,30,Female,58,2683.84,One Year,None,2,Debit Card,No
+20305,37,Female,70,777.31,Monthly,DSL,5,Bank Transfer,Yes
+20253,33,Male,37,1344.64,Two Year,Fiber,4,Bank Transfer,No
+20254,25,Female,68,2080.16,Two Year,DSL,0,Credit Card,No
+20255,57,Female,40,1492.49,One Year,Fiber,6,Credit Card,No
+20256,57,Male,59,2049.23,Monthly,Fiber,0,UPI,No
+20341,37,Male,16,1915.12,Monthly,Fiber,0,Debit Card,Yes
+20258,19,Female,62,2496.05,One Year,None,4,Bank Transfer,No
+20259,47,Male,4,2838.36,One Year,Fiber,1,Debit Card,No
+20394,37,Female,2,2970.66,Two Year,None,3,UPI,Yes
+20157,36,Female,69,555.41,Monthly,DSL,3,Bank Transfer,Yes
+20262,27,Male,66,707.87,One Year,Fiber,7,Bank Transfer,No
+20263,61,Male,31,1588.02,Monthly,Fiber,6,UPI,No
+20264,28,Male,3,1923.88,Monthly,None,5,Debit Card,No
+20265,32,Male,8,1869.69,Two Year,Fiber,6,UPI,No
+20266,33,Male,24,1382.95,Monthly,DSL,1,Bank Transfer,No
+20267,34,Male,15,1211.83,Two Year,Fiber,1,Bank Transfer,No
+20268,43,Male,43,641.42,One Year,Fiber,2,UPI,No
+20269,19,Female,31,1356.7,One Year,Fiber,3,Debit Card,No
+20384,36,Female,64,2853.12,Monthly,Fiber,1,Debit Card,Yes
+20271,29,Female,66,2281.79,Monthly,Fiber,0,Credit Card,No
+20272,68,Female,8,862.84,Two Year,DSL,2,UPI,No
+20273,43,Female,71,457.13,Monthly,Fiber,6,Debit Card,No
+20274,40,Male,57,1790.39,One Year,Fiber,1,Credit Card,No
+20275,35,Male,30,1906.12,Monthly,Fiber,6,Bank Transfer,No
+20276,49,Female,18,2653.17,Monthly,DSL,5,Debit Card,No
+20277,66,Male,69,1856.85,Monthly,Fiber,3,Credit Card,No
+20278,55,Female,39,1231.8,One Year,DSL,2,Debit Card,No
+20279,64,Male,60,2467.13,Two Year,Fiber,0,UPI,No
+20280,20,Male,43,1757.75,Monthly,Fiber,4,Debit Card,No
+20281,55,Female,45,513.06,Monthly,Fiber,6,Credit Card,No
+20282,20,Female,23,1826.8,Monthly,DSL,1,UPI,No
+20167,35,Female,63,2492.68,Monthly,Fiber,4,Debit Card,Yes
+20284,18,Male,6,1369.04,Monthly,Fiber,5,Bank Transfer,No
+20067,34,Male,66,1043.99,Monthly,DSL,3,Debit Card,Yes
+20286,62,Male,4,686.37,One Year,DSL,6,UPI,No
+20287,49,Male,23,707.9,One Year,Fiber,0,Debit Card,No
+20288,45,Male,6,1467.48,Monthly,Fiber,6,Bank Transfer,No
+20289,38,Female,32,1907.34,Two Year,Fiber,3,Credit Card,No
+20290,63,Female,18,516.66,Monthly,Fiber,7,Bank Transfer,No
+20291,30,Female,15,2835.84,Monthly,DSL,4,Debit Card,No
+20140,33,Female,18,618.19,Two Year,Fiber,7,Debit Card,Yes
+20293,53,Male,6,1882.88,One Year,Fiber,5,UPI,No
+20380,33,Female,46,799.25,Monthly,Fiber,7,Credit Card,Yes
+20295,39,Male,67,515.5,Monthly,Fiber,4,UPI,No
+20296,27,Male,11,1586.46,One Year,Fiber,5,Credit Card,No
+20297,56,Female,43,2000.25,Monthly,Fiber,3,UPI,No
+20179,32,Female,40,2190.65,One Year,DSL,3,Credit Card,Yes
+20298,32,Female,17,2536.36,Two Year,DSL,3,Credit Card,Yes
+20300,21,Male,63,1047.09,Monthly,None,4,Debit Card,No
+20301,49,Male,68,2839.38,Monthly,DSL,0,Bank Transfer,No
+20302,40,Male,41,634.73,Monthly,DSL,3,Credit Card,No
+20303,23,Male,5,2661.86,One Year,DSL,2,Debit Card,No
+20304,41,Male,32,2920.54,One Year,Fiber,7,Bank Transfer,No
+20299,32,Female,4,2414.37,One Year,None,7,Debit Card,Yes
+20306,54,Male,35,2248.58,One Year,Fiber,4,UPI,No
+20307,37,Male,22,407.77,Two Year,Fiber,1,Bank Transfer,No
+20308,29,Male,65,1393.64,Monthly,DSL,1,Debit Card,No
+20309,50,Female,22,1692.96,Two Year,Fiber,0,UPI,No
+20106,30,Female,24,2775.62,One Year,Fiber,6,Debit Card,Yes
+20311,25,Female,3,2826.03,Monthly,None,3,Credit Card,No
+20186,30,Female,22,368.36,One Year,Fiber,5,UPI,Yes
+20313,54,Female,60,1598.45,Monthly,Fiber,0,Debit Card,No
+20331,30,Male,45,429.58,Monthly,Fiber,5,Debit Card,Yes
+20315,23,Female,18,2865.44,Monthly,DSL,7,UPI,No
+20316,38,Male,23,358.58,Two Year,Fiber,2,Debit Card,No
+20317,49,Female,47,2951.81,Two Year,Fiber,2,Debit Card,No
+20318,52,Male,69,531.56,One Year,Fiber,6,Credit Card,No
+20319,32,Male,47,2497.84,Monthly,DSL,0,Credit Card,No
+20036,29,Male,27,1190.77,Monthly,None,1,UPI,Yes
+20321,63,Male,25,655.89,Monthly,Fiber,6,Debit Card,No
+20261,29,Female,28,2876.33,Two Year,DSL,2,Debit Card,Yes
+20323,65,Male,25,2037.68,Two Year,Fiber,3,Debit Card,No
+20324,23,Female,58,1327.57,Monthly,None,0,Debit Card,No
+20325,42,Female,41,446.33,Monthly,Fiber,6,Credit Card,No
+20326,63,Female,25,1917.55,One Year,DSL,3,Debit Card,No
+20081,28,Male,56,1220.56,One Year,Fiber,3,UPI,Yes
+20200,28,Female,72,583.81,Monthly,Fiber,2,Debit Card,Yes
+20329,24,Male,11,883.1,One Year,None,4,Debit Card,No
+20330,57,Female,21,1493.96,One Year,DSL,2,Debit Card,No
+20252,28,Male,14,1419.03,Monthly,Fiber,4,Credit Card,Yes
+20073,27,Female,36,2316.11,One Year,Fiber,6,Debit Card,Yes
+20333,35,Female,64,2530.12,Two Year,DSL,2,Debit Card,No
+20334,19,Female,64,1886.6,Monthly,Fiber,4,UPI,No
+20335,25,Female,2,1252.38,Monthly,DSL,3,UPI,No
+20336,28,Female,42,2458.42,Monthly,DSL,3,Debit Card,No
+20097,27,Female,25,435.13,Monthly,Fiber,6,Debit Card,Yes
+20338,55,Male,16,2529.02,Monthly,DSL,4,Bank Transfer,No
+20339,65,Female,18,2003.94,Two Year,Fiber,0,Debit Card,No
+20391,27,Female,70,1699.12,Monthly,None,3,Bank Transfer,Yes
+20024,26,Female,52,720.74,Monthly,Fiber,7,Debit Card,Yes
+20342,29,Female,6,1417.18,One Year,None,1,Credit Card,No
+20343,60,Female,57,2885.45,One Year,DSL,6,Credit Card,No
+20042,26,Female,11,2521.84,Two Year,DSL,3,Debit Card,Yes
+20345,44,Female,48,1932.74,Two Year,Fiber,2,Bank Transfer,No
+20346,49,Female,42,894.32,Monthly,Fiber,7,UPI,No
+20347,27,Female,60,1988.26,One Year,DSL,5,Bank Transfer,No
+20348,20,Male,4,1842.34,Monthly,Fiber,6,Credit Card,No
+20349,62,Female,2,798.06,Two Year,Fiber,3,UPI,No
+20350,44,Male,59,459.89,Monthly,DSL,5,UPI,No
+20351,52,Female,27,1930.77,Two Year,Fiber,1,Credit Card,No
+20352,48,Male,27,2360.97,One Year,Fiber,7,Credit Card,No
+20353,32,Female,72,1712.18,Monthly,Fiber,5,Bank Transfer,No
+20354,33,Male,7,911.29,One Year,Fiber,7,Credit Card,No
+20355,30,Male,63,2098.61,Two Year,None,2,UPI,No
+20356,66,Male,46,515.29,Two Year,Fiber,3,Debit Card,No
+20078,26,Female,32,2592.51,One Year,Fiber,5,Credit Card,Yes
+20358,69,Male,12,740.09,One Year,Fiber,2,Credit Card,No
+20359,28,Male,13,797.04,Monthly,DSL,6,Bank Transfer,No
+20360,38,Female,43,845.19,Monthly,Fiber,0,Bank Transfer,No
+20233,26,Female,35,1525.3,Monthly,DSL,2,UPI,Yes
+20362,28,Male,63,437.11,Monthly,Fiber,1,UPI,No
+20363,47,Male,36,1373.04,Two Year,Fiber,3,UPI,No
+20364,65,Male,8,1680.61,Monthly,Fiber,7,Debit Card,No
+20365,52,Male,69,1603.89,Two Year,DSL,5,Credit Card,No
+20217,25,Male,5,2029.61,One Year,Fiber,1,Bank Transfer,Yes
+20153,24,Male,55,1324.94,Monthly,DSL,2,UPI,Yes
+20368,48,Female,47,691.38,Monthly,Fiber,1,Debit Card,No
+20369,31,Female,30,1664.38,Monthly,None,6,Credit Card,No
+20370,41,Male,23,466.51,Monthly,Fiber,3,UPI,No
+20231,24,Female,19,1368.03,Monthly,DSL,0,Credit Card,Yes
+20372,66,Female,14,1848.44,One Year,Fiber,3,Credit Card,No
+20294,24,Female,63,2535.78,Monthly,Fiber,0,Bank Transfer,Yes
+20025,23,Male,9,2967.74,Monthly,Fiber,1,Credit Card,Yes
+20174,23,Male,31,658.67,One Year,DSL,7,UPI,Yes
+20376,32,Male,29,2890.44,Two Year,DSL,0,Credit Card,No
+20377,60,Female,67,430.48,Two Year,Fiber,2,Credit Card,No
+20378,52,Female,15,563.62,Monthly,None,0,Debit Card,No
+20379,20,Male,47,417.98,Monthly,Fiber,5,Bank Transfer,No
+20235,23,Female,19,2822.77,One Year,DSL,6,Credit Card,Yes
+20381,22,Female,52,1760.43,Two Year,DSL,6,Bank Transfer,No
+20382,38,Male,19,2042.04,Monthly,DSL,2,UPI,No
+20383,27,Male,21,422.08,Monthly,None,2,Credit Card,No
+20320,22,Female,30,1055.9,Monthly,DSL,0,Credit Card,Yes
+20385,42,Female,37,2572.85,Monthly,DSL,4,Debit Card,No
+20386,21,Male,27,1099.85,Monthly,DSL,5,Bank Transfer,No
+20387,46,Male,55,507.41,One Year,Fiber,3,UPI,No
+20388,36,Male,29,757.7,Monthly,Fiber,5,Bank Transfer,No
+20134,20,Male,25,2778.67,Monthly,DSL,2,Debit Card,Yes
+20390,19,Male,25,631.87,Monthly,Fiber,6,Debit Card,No
+20195,20,Female,38,1590.93,Two Year,Fiber,5,Credit Card,Yes
+20392,60,Female,63,962.79,Two Year,DSL,7,Debit Card,No
+20393,42,Female,36,1265.98,Monthly,DSL,0,Debit Card,No
+20058,19,Male,21,2118.37,Two Year,DSL,6,UPI,Yes
+20395,65,Male,22,2146.65,One Year,Fiber,3,Bank Transfer,No
+20396,36,Male,16,2861.25,Monthly,DSL,1,Bank Transfer,No
+20312,18,Male,9,2114.08,Monthly,Fiber,1,Debit Card,Yes
+20398,41,Female,69,1330.78,Monthly,DSL,5,Debit Card,No
+20399,28,Female,54,1796.78,Two Year,Fiber,5,UPI,No
+20400,63,Female,30,506.25,Monthly,None,6,Credit Card,No
